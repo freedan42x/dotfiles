@@ -54,3 +54,4 @@
 (global-set-key (kbd "C->") 'mc/mark-next-like-this)
 (global-set-key (kbd "C-x <C-up>") (lambda() (interactive)(find-file user-init-file)))
 (global-set-key (kbd "C-c r") (lambda() (interactive)(load-file user-init-file)))
+;
